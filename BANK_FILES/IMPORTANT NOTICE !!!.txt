@@ -1,4 +1,4 @@
 Resources should NOT be deleted.
 The program will not run properly.
 
-* This is a work of fiction. Names either are products of the author’s imagination or are used fictitiously. Any resemblance to actual  persons, living or dead, is entirely coincidental.
+* queueCustomers: This is a work of fiction. Names either are products of the author’s imagination or are used fictitiously. Any resemblance to actual  persons, living or dead, is entirely coincidental.
