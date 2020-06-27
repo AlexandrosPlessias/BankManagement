@@ -1,0 +1,6 @@
+Reserved Account
+IBAN:  100017
+Owner/s List: [Monasthridou Sofia, Kalogiannis Grigorios, Karagiannis Odusseas]
+Reserved for: 3.0 months
+Rate: 0.04
+Current Balance: $9071.16

@@ -1,0 +1,5 @@
+Simple Credit Account
+IBAN: 100018
+Owner/s List: [Apostolopoulos Dimitrios, Katsarou Xrisanthi]
+Rate: 0.01
+Current Balance: $10293.04

@@ -1,0 +1,5 @@
+Super Credit Account
+IBAN: 100016
+Owner/s List: [Siklafidis Panagiotis, Xantzis Ioannis, Giannopoulou Basiliki]
+Rate: 0.02
+Current Balance: $1646.45

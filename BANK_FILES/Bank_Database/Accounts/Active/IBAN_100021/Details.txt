@@ -1,0 +1,6 @@
+Reserved Account
+IBAN:  100021
+Owner/s List: [Lampropoulos Georgios, Pesini Polykseni]
+Reserved for: 9.0 months
+Rate: 0.044
+Current Balance: $6616.88

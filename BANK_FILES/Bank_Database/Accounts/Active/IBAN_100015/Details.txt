@@ -1,0 +1,5 @@
+Simple Credit Account
+IBAN: 100015
+Owner/s List: [Deli Maria, Lampropoulos Georgios]
+Rate: 0.01
+Current Balance: $5058.82

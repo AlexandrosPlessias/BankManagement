@@ -1,0 +1,6 @@
+Reserved Account
+IBAN:  100020
+Owner/s List: [Pesini Polykseni, Karagiannis Odusseas]
+Reserved for: 9.0 months
+Rate: 0.044
+Current Balance: $6980.39

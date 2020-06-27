@@ -1,0 +1,5 @@
+Simple Credit Account
+IBAN: 100009
+Owner/s List: [Plessias Aleksandros, Kakos Konstantinos]
+Rate: 0.01
+Current Balance: $4844.44

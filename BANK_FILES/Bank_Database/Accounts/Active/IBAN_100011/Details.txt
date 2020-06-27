@@ -1,0 +1,5 @@
+Super Credit Account
+IBAN: 100011
+Owner/s List: [Papageorgopoulos Nikos, Tzamalh Praksia, Trifiaths Xristos]
+Rate: 0.02
+Current Balance: $1998.60

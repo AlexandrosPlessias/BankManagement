@@ -1,0 +1,5 @@
+Super Credit Account
+IBAN: 100006
+Owner/s List: [Monasthridou Sofia]
+Rate: 0.02
+Current Balance: $2380.98

@@ -1,0 +1,5 @@
+Simple Credit Account
+IBAN: 100013
+Owner/s List: [Siklafidis Panagiotis, Politou Paraskeui, Trifiaths Xristos]
+Rate: 0.01
+Current Balance: $239.37

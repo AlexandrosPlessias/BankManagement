@@ -1,0 +1,5 @@
+Super Credit Account
+IBAN: 100008
+Owner/s List: [Siklafidis Panagiotis, Kirizaki Eleni, Tzamalh Praksia]
+Rate: 0.02
+Current Balance: $7996.32

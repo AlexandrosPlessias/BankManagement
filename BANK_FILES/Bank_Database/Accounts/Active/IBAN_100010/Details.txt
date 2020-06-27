@@ -1,0 +1,5 @@
+Super Credit Account
+IBAN: 100010
+Owner/s List: [Mpoutivas Mixail, Deli Maria, Kirizaki Eleni]
+Rate: 0.02
+Current Balance: $4066.95

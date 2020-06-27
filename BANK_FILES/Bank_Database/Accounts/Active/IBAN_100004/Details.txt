@@ -1,0 +1,5 @@
+Super Credit Account
+IBAN: 100004
+Owner/s List: [Kakos Konstantinos]
+Rate: 0.02
+Current Balance: $4127.21

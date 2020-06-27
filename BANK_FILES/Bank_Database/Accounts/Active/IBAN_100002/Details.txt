@@ -1,0 +1,6 @@
+Reserved Account
+IBAN:  100002
+Owner/s List: [Tzatzidoy Eugenia, Markoy Eleni, Kalogiannis Grigorios]
+Reserved for: 3.0 months
+Rate: 0.04
+Current Balance: $8638.26

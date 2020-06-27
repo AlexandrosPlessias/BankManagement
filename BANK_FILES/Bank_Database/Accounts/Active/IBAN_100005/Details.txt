@@ -1,0 +1,6 @@
+Reserved Account
+IBAN:  100005
+Owner/s List: [Papagiannopoulos Hlias]
+Reserved for: 6.0 months
+Rate: 0.042
+Current Balance: $5020.29

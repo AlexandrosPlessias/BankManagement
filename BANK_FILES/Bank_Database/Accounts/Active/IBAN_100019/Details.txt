@@ -1,0 +1,5 @@
+Simple Credit Account
+IBAN: 100019
+Owner/s List: [Sidiropoulos Kontsantinos]
+Rate: 0.01
+Current Balance: $6722.80

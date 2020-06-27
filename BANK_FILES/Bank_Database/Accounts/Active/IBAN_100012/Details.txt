@@ -1,0 +1,5 @@
+Super Credit Account
+IBAN: 100012
+Owner/s List: [Siklafidis Panagiotis, Giagas Ioannis]
+Rate: 0.02
+Current Balance: $2792.02

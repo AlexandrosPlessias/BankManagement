@@ -1,0 +1,5 @@
+Super Credit Account
+IBAN: 100007
+Owner/s List: [Monasthridou Sofia, Ellinidis Eustathios, Georgiou Konstantinos]
+Rate: 0.02
+Current Balance: $6043.91
