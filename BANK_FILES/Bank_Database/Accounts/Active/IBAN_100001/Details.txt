@@ -1,0 +1,5 @@
+Super Credit Account
+IBAN: 100001
+Owner/s List: [Apostolopoulos Dimitrios]
+Rate: 0.02
+Current Balance: $1492.98
