@@ -1,0 +1,3 @@
+Id: 5
+Name: Kalogiannis Grigorios
+Account/s List: [ 100002 100017 ]

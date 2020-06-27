@@ -1,0 +1,3 @@
+Id: 49
+Name: Plessias Aleksandros
+Account/s List: [ 100009 ]

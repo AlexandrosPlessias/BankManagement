@@ -1,0 +1,3 @@
+Id: 25
+Name: Giannopoulou Basiliki
+Account/s List: [ 100016 ]

@@ -1,0 +1,3 @@
+Id: 50
+Name: Papageorgopoulos Nikos
+Account/s List: [ 100011 ]

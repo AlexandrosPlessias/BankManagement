@@ -1,0 +1,3 @@
+Id: 36
+Name: Siklafidis Panagiotis
+Account/s List: [ 100008 100012 100013 100016 ]

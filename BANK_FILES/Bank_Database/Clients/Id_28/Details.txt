@@ -1,0 +1,3 @@
+Id: 28
+Name: Apostolopoulos Dimitrios
+Account/s List: [ 100001 100018 ]

@@ -1,0 +1,3 @@
+Id: 38
+Name: Kakos Konstantinos
+Account/s List: [ 100004 100009 ]

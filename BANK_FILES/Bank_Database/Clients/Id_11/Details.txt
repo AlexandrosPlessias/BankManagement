@@ -1,0 +1,3 @@
+Id: 11
+Name: Karagiannis Odusseas
+Account/s List: [ 100017 100020 ]
