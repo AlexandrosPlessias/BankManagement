@@ -1,0 +1,6 @@
+Reserved Account
+IBAN:  100014
+Owner/s List: []
+Reserved for: 3.0 months
+Rate: 0.04
+Current Balance: $0.00
